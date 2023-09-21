@@ -1,0 +1,8 @@
+{
+    "name": "Aniyomi - Flicks",
+    "description": "Aniyomi en Flicks",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/builds/plugins.json"
+    ]
+}
